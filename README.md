@@ -1,5 +1,6 @@
 # finalCapstone
-##This program is a finance calculator 
+
+## This program is a finance calculator 
 
 # Content 
 * Investment
