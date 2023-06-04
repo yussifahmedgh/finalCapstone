@@ -36,11 +36,11 @@ The Finance Calculator is a Python program that allows users to perform common f
 
 4. Here are the installation steps with pictures:
 
-![Step 1](installation/Screenshot 2023-06-04 at 14.07.04.png)
+![Step 1](Screenshot 2023-06-04 at 14.07.04.png)
 
-![Step 2](installation/Screenshot 2023-06-04 at 14.11.04.png)
+![Step 2](Screenshot 2023-06-04 at 14.11.04.png)
 
-![Step 3](installation/Screenshot 2023-06-04 at 14.24.37.png)
+![Step 3](Screenshot 2023-06-04 at 14.24.37.png)
 
 ## Usage
 
