@@ -1,65 +1,70 @@
-# finalCapstone
-
-## This program is a finance calculator 
-
-
-# Content 
-* Investment
-* Bond
-* Simple Interest
-* Compound Interest
-
-
 # Finance Calculator
-Welcome to the Finance Calculator program! This program allows you to perform various financial calculations related to investments, bonds, and simple and compound interest. It provides a convenient way to calculate and analyze financial metrics for better financial planning and decision-making.
 
+A finance calculator program that calculates investments, bonds, and simple and compound interest. This program provides a convenient way to perform various financial calculations quickly and accurately.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Supported Calculations](#supported-calculations)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+The Finance Calculator is a Python program that allows users to perform common financial calculations. It offers functionalities to calculate investment returns, bond values, and simple and compound interest. The program provides a user-friendly interface for inputting parameters and generates accurate results based on the formulas and principles of finance.
 
 ## Features
 
-The Finance Calculator program includes the following features:
+- Investment calculator: Calculate the future value of an investment based on the initial amount, interest rate, and time period.
+- Bond calculator: Determine the value of a bond based on the face value, coupon rate, yield to maturity, and time to maturity.
+- Simple interest calculator: Compute the total amount accrued through simple interest based on the principal amount, interest rate, and time period.
+- Compound interest calculator: Calculate the total amount earned through compound interest based on the principal amount, interest rate, compounding frequency, and time period.
 
-1. Investment Calculator:
-   - Calculate the future value of an investment based on the principal amount, interest rate, and time period.
-   - Explore different compounding frequencies (e.g., annually, semi-annually, quarterly) to see how it affects the growth of your investment.
-
-2. Bond Calculator:
-   - Determine the price or yield of a bond using the bond's face value, coupon rate, time to maturity, and prevailing market interest rate.
-   - Calculate the accrued interest and total return on a bond investment.
-
-3. Simple Interest Calculator:
-   - Compute the simple interest earned on a principal amount for a specified time period and interest rate.
-
-4. Compound Interest Calculator:
-   - Calculate the compound interest earned on an initial amount with regular contributions or deposits over a given time period.
-   - Analyze how different contribution frequencies and interest rates impact the growth of your savings.
-
-## Getting Started
-
-To get started with the Finance Calculator program, follow these steps:
+## Installation
 
 1. Clone the repository to your local machine:
-https://github.com/yussifahmedgh/finance-calculator.git
 
-2. Navigate to the program's directory:
+2. Ensure that you have Python 3 installed on your system.
 
-3. Run the program by executing the main script:
+3. Install the re
+## Usage
 
-4. Follow the on-screen prompts to input the required information and perform the desired calculations.
+1. Open a terminal or command prompt and navigate to the project directory.
 
-## Requirements
+2. Run the finance calculator program by executing the following command:
+quired dependencies by running the following command:
 
-The Finance Calculator program requires Python 3 to be installed on your system. Additionally, it utilizes standard Python libraries, such as math and datetime, which are typically included in Python installations by default.
+3. Follow the on-screen prompts to input the required parameters for the specific calculation you want to perform.
+
+4. The program will display the calculated result based on the provided inputs.
+
+## Supported Calculations
+
+The finance calculator supports the following types of calculations:
+
+1. Investment Calculator:
+- Future Value (FV)
+
+2. Bond Calculator:
+- Bond Value (BV)
+
+3. Simple Interest Calculator:
+- Total Accrued Amount (TAA)
+
+4. Compound Interest Calculator:
+- Total Amount (TA)
+
+For each calculation, the program will prompt you to input the necessary parameters and then display the calculated result.
 
 ## Contributing
 
-Contributions to this program are welcome! If you have ideas for additional financial calculations, improvements to existing features, or bug fixes, please feel free to submit a pull request.
+Contributions to this project are welcome! If you have any ideas for improvements, additional features, or bug fixes, please feel free to submit a pull request.
 
+## License
 
-## Acknowledgments
+This project is licensed under the [MIT License](LICENSE).
 
-We would like to acknowledge the contributions of the finance and programming communities, as well as the resources and libraries that make this Finance Calculator program possible.
-
-For any questions or feedback, please feel free to reach out.
-
-Happy financial calculations!
 
