@@ -66,8 +66,12 @@ For each calculation, the program will prompt you to input the necessary paramet
 
 Contributions to this project are welcome! If you have any ideas for improvements, additional features, or bug fixes, please feel free to submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
+## Credit
+This finance calculator program was created by:
+- [Yussif Ahmed](https://github.com/yussifahmedgh)
+
+
+We would like to acknowledge their contributions and efforts in developing this project.
 
