@@ -32,13 +32,21 @@ The Finance Calculator is a Python program that allows users to perform common f
 
 2. Ensure that you have Python 3 installed on your system.
 
-3. Install the re
+3. Install the required dependencies by running the following command:
+
+4. Here are the installation steps with pictures:
+
+![Step 1](installation/step1.png)
+
+![Step 2](installation/step2.png)
+
+![Step 3](installation/step3.png)
+
 ## Usage
 
 1. Open a terminal or command prompt and navigate to the project directory.
 
 2. Run the finance calculator program by executing the following command:
-quired dependencies by running the following command:
 
 3. Follow the on-screen prompts to input the required parameters for the specific calculation you want to perform.
 
@@ -66,12 +74,15 @@ For each calculation, the program will prompt you to input the necessary paramet
 
 Contributions to this project are welcome! If you have any ideas for improvements, additional features, or bug fixes, please feel free to submit a pull request.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 
 ## Credit
 This finance calculator program was created by:
 - [Yussif Ahmed](https://github.com/yussifahmedgh)
 
-
 We would like to acknowledge their contributions and efforts in developing this project.
+
 
