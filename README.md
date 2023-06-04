@@ -36,14 +36,19 @@ The Finance Calculator is a Python program that allows users to perform common f
 
 4. Here are the installation steps with pictures:
 
-# check your python to ensure you've python 3.10 installed
-![Step 1](https://markdown-here.com/img/Screenshot2023-06-04 at 14.07.04.png)
+### check your python to ensure you've python 3.10 installed
 
-# Download files from github
-![Step 2](https://markdown-here.com/img/Screenshot2023-06-04 at 14.11.04.png)
+!<img width="572" alt="Screenshot 2023-06-04 at 14 07 04" src="https://github.com/yussifahmedgh/finalCapstone/assets/131601559/d9db1539-5b4b-4d41-9b59-f5645d68f487">
 
-# Run program on your terminal and follow the process to get your calculations
-![Step 3](https://markdown-here.com/img/Screenshot2023-06-04 at 14.24.37.png)
+### Download files from github
+
+<img width="1087" alt="Screenshot 2023-06-04 at 14 11 04" src="https://github.com/yussifahmedgh/finalCapstone/assets/131601559/95daba34-6250-4500-86d5-2918cb7f8436">
+
+
+### Run program on your terminal and follow the process to get your calculations
+
+<img width="861" alt="Screenshot 2023-06-04 at 14 24 37" src="https://github.com/yussifahmedgh/finalCapstone/assets/131601559/c79d34cd-0541-41a7-9cf3-d2426b0e5630">
+
 
 ## Usage
 
